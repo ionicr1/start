@@ -13,7 +13,7 @@ void sum() {
 
 int main() {
 	cout<<"\nHello World!\n";
-	cout<<"The coronavirus is getting worse, more insidious.\n\n";
+	cout<<"...more insidious.\n\n";
 	sum();
 	return 0;
 }
